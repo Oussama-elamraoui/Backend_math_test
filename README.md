@@ -1,5 +1,3 @@
-Ces deux exercices nécessitent une réflexion claire et méthodique. Voici comment vous pourriez aborder chaque question :
-
 ---
 
 ### **Exercice 1 : Base de données NoSQL pour la gestion de stock**
