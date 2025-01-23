@@ -1,5 +1,6 @@
-# Backend_math_test
+Ces deux exercices nécessitent une réflexion claire et méthodique. Voici comment vous pourriez aborder chaque question :
 
+---
 
 ### **Exercice 1 : Base de données NoSQL pour la gestion de stock**
 
@@ -109,3 +110,10 @@ où :
 - \( \vec{u} = (u_x, u_y, u_z) \) est le vecteur unitaire directeur de la droite.
 
 ---
+
+#### **Bonus : Deuxième transformation**
+La transformation cherchée est une **projection orthogonale** pour s'assurer que les couleurs restent dans le cube \( [0,255]^3 \). Cette projection ramène tout point \( C_1 \) en dehors du cube vers le point le plus proche sur les faces du cube, tout en restant sur l'axe orthogonal défini.
+
+---
+
+Si vous souhaitez que je développe davantage ou ajuste un des points, faites-le moi savoir.
