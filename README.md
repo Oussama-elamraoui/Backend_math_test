@@ -71,7 +71,5 @@ Pour répondre à cet exercice, vous devez fournir une structure JSON qui répon
 
 ---
 
-### **Exercice 2 : Mathématiques**
-
 ![image](https://github.com/user-attachments/assets/c08be92c-9371-4f21-b35e-139fa79802be)
 
