@@ -1,5 +1,3 @@
----
-
 ### **Exercice 1 : Base de données NoSQL pour la gestion de stock**
 
 Pour répondre à cet exercice, vous devez fournir une structure JSON qui répond aux critères listés. Voici une proposition avec une explication :
